@@ -25,7 +25,7 @@ body {
   color: hsk(228, 45% 55%);
 }
 
-.main {
+main {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -41,16 +41,16 @@ body {
           box-shadow: 15px 15px 25px -15px black;
 }
 
-.main img {
+main img {
   margin: 20px;
   border-radius: 10px;
 }
 
-.main h2 {
+main h2 {
   text-align: center;
 }
 
-.main p {
+main p {
   text-align: center;
   font-weight: 400;
   color: gray;
