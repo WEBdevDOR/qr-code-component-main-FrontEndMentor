@@ -33,7 +33,7 @@ main {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  width: 375px;
+  width: 350px;
   border-radius: 20px;
   margin: auto auto;
   background-color: #fff;
