@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 body {
-  background-color: lightblue;
+  background-color: #D5E1EF;
   font-family: 'Outfit', sans-serif;
   font-size: 15px;
   display: flex;
@@ -24,6 +24,7 @@ body {
   border-radius: 20px;
   margin: auto auto;
   background-color: #fff;
+  box-shadow: 15px 15px 25px -15px black;
   img {
     margin: 20px;
     border-radius: 10px;
